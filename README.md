@@ -3,7 +3,7 @@
 #### He aha te mea nui o te ao (What is the most important thing in the world?)
 #### He tangata, he tangata, he tangata  (It is the people, it is the people, it is the people)   - Maori proverb
 
-<!--
+
 **indigophillips/indigophillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... I can be reached via my email address indigophillips@ataahuatechnology.co.nz
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
