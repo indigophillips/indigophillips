@@ -16,10 +16,10 @@
 #### No reira, tēnā koutou, tēnā koutou, tēnā tatou katoa.
 
 #### My interests in seeing Kubernete's Translated into Te Reo Māori is to support and share this knowledge with rangatahi and māori to benefit:
-####- data soverinty over our iwi knowledge
-####- open up future employment pathways for māori
-####- learn about the real world application that cloud native technologies can hold for Māori
-####- how we can reduce the impact of inequality for Māori the NZ Tech space. 
+- data soverinty over our iwi knowledge
+- open up future employment pathways for māori
+- learn about the real world application that cloud native technologies can hold for Māori
+- how we can reduce the impact of inequality for Māori the NZ Tech space. 
 
 #### Ngā mihi
 
