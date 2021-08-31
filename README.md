@@ -1,27 +1,27 @@
 # Nau Mai Haere Mai (Welcome) 👋
 
-Tēnā koutou katoa, 
-Ko Indigo toku ingoa,
-No Tauranga-moana toku kainga,
-Ko Tarawera toku maunga, 
-Ko Waikato toku awa,
-Ko Te Arawa toku waka,
-Ko Tūtānekai toku marae,
-Ko Ngāti Whakaue toku hapu,
-Ko Te Ure o Uenukukōpako toku iwi,
-Ko Elizabeth Te Waiomaatao Karawana toku māmā,
-Ko Gilbert Hona toku papa
+### Tēnā koutou katoa, 
 
-No reira, tēnā koutou, tēnā koutou, tēnā tatou katoa.
+#### Ko Indigo toku ingoa,
+#### No Tauranga-moana toku kainga,
+#### Ko Tarawera toku maunga, 
+#### Ko Waikato toku awa,
+#### Ko Te Arawa toku waka,
+#### Ko Tūtānekai toku marae,
+#### Ko Ngāti Whakaue toku hapu,
+#### Ko Te Ure o Uenukukōpako toku iwi,
+#### Ko Elizabeth Te Waiomaatao Karawana toku māmā,
+#### Ko Gilbert Hona toku papa
 
-My interests in seeing Kubernete's Translated into Te Reo Māori is to support and share this knowledge with rangatahi and māori to benefit:
-- data soverinty over our iwi knowledge
-- open up future employment pathways for māori
-- learn about the real world application that cloud native technologies can hold for Māori
-- how we can reduce the impact of inequality for Māori the NZ Tech space. 
+#### No reira, tēnā koutou, tēnā koutou, tēnā tatou katoa.
 
+#### My interests in seeing Kubernete's Translated into Te Reo Māori is to support and share this knowledge with rangatahi and māori to benefit:
+####- data soverinty over our iwi knowledge
+####- open up future employment pathways for māori
+####- learn about the real world application that cloud native technologies can hold for Māori
+####- how we can reduce the impact of inequality for Māori the NZ Tech space. 
 
-Ngā mihi
+#### Ngā mihi
 
 
 #### He aha te mea nui o te ao (What is the most important thing in the world?)
