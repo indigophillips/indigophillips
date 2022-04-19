@@ -31,7 +31,7 @@
 - 🌱 I’m currently learning ... how to localize Kubernete's ready for translation.
 - 👯 I’m looking to collaborate on and help with ... the translation of the Kubernete's documentation in Te Reo Māori
 - 💬 Ask me about ... how to become a contribute to Kubernete's
-- 📫 How to reach me: ... I can be reached via my email address indigophillips@ataahuatechnology.co.nz and (027) 483 1751
+- 📫 How to reach me: ... I can be reached via my email address indigo@tanikodesigns.com and (027) 483 1751
 
 
 **indigophillips/indigophillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
