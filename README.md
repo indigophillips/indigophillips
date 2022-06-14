@@ -2,16 +2,16 @@
 
 ### Tēnā koutou katoa, 
 
-#### Ko Indigo toku ingoa,
-#### No Tauranga-moana toku kainga,
-#### Ko Tarawera toku maunga, 
-#### Ko Waikato toku awa,
-#### Ko Te Arawa toku waka,
+#### Ko Indigo te ingoa,
+#### No Tauranga-moana te kainga,
+#### Ko Tarawera te maunga,
+#### Ko Te Rotoruanui-a-kahumatamoemoe te moana,
+#### Ko Rangitāiki te awa,
+#### Ko Rotorua te roto,
+#### Ko Te Arawa te waka,
+#### Ko Te Roro-o-te-Rangi te iwi,
+#### Ko Ngāti Whakaue te hapu,
 #### Ko Tūtānekai toku marae,
-#### Ko Ngāti Whakaue toku hapu,
-#### Ko Te Ure o Uenukukōpako toku iwi,
-#### Ko Elizabeth Te Waiomaatao Karawana toku māmā,
-#### Ko Gilbert Hona toku papa
 
 #### No reira, tēnā koutou, tēnā koutou, tēnā tatou katoa.
 
