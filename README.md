@@ -3,7 +3,7 @@
 ### Tēnā koutou katoa, 
 
 #### Ko Indigo te ingoa,
-#### No Tauranga-moana te kainga,
+#### Ko Tauranga-moana te kainga,
 #### Ko Tarawera te maunga,
 #### Ko Te Rotoruanui-a-kahumatamoemoe te moana,
 #### Ko Rangitāiki te awa,
